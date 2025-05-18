@@ -1,18 +1,18 @@
 # LMSproject
 
-Este proyecto es un sistema de gestión de biblioteca (Library Management System) escrito en Java, siguiendo el SDLC.
+This is a Library Management System written in Java as part of the SDLC Part 2 assignment.
 
-## Funciones principales:
-- Leer datos de un archivo de texto.
-- Mostrar información de los usuarios (patrons).
-- Agregar nuevos usuarios.
-- Eliminar usuarios existentes.
-- Menú interactivo en consola.
+## Main Features
+- Load patron data from a file.
+- Display patron records.
+- Add a new patron.
+- Remove a patron.
+- Interactive console menu.
 
-## Cómo ejecutar:
-1. Clona el repositorio.
-2. Compila el código en IntelliJ o usando `javac`.
-3. Ejecuta la clase `LMSConsole.java`.
+## How to Run
+1. Clone the repository.
+2. Open the project in IntelliJ.
+3. Run the `LMSConsole` class.
 
-## Autor:
+## Author
 Luis Augusto Monserratt Alvarado
